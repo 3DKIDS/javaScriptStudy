@@ -6,10 +6,10 @@ background-color: #deedd8;
 }
 
 body {
-  width: 600px;
+  width: 1000px;
   margin: 0 auto;
   background-color: #FF9500;
-  padding: 0 10px 100px 20px;
+  padding: 0 10px 10px 20px;
   border: 5px solid black;
 }
 
@@ -89,3 +89,4 @@ img {
   transition-timing-function: linear;
 }
 
+/*https://ko.javascript.info/css-animations */

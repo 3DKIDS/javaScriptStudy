@@ -1,0 +1,27 @@
+.coding {
+  position: relative;
+  cursor: pointer;
+  width: 177px;
+  height: 160px;
+  left: 100px;
+  transition: left 5s cubic-bezier(.5, -1, .5, 2);
+}
+
+
+.game {
+  position: relative;
+  cursor: pointer;
+  width: 177px;
+  height: 160px;
+  left: 0px;
+  transition: left 5s cubic-bezier(0.0, 0.5, 0.5, 1.0);
+}
+
+.iot {
+  position: relative;
+  cursor: pointer;
+  width: 177px;
+  height: 160px;
+  left: 0px;
+  transition: left 5s ease-out;
+}
